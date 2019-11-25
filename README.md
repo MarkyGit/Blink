@@ -1,7 +1,19 @@
 # swen1-patterns
 Swen 1 Pattern Demo
 
+## Visitor demo from Oracle
 
+https://docs.oracle.com/javase/tutorial/essential/io/walk.html
+
+Compare the WalkFileTree sample with the visitor demo from Tutorialspoint and draw an UML class diagram. 
+
+## Visitor demo from Tutorialspoint
+
+https://www.tutorialspoint.com/design_pattern/visitor_pattern.htm
+
+## Blink Fx App 
+
+Add an Observer Pattern to the demo code and make the red circle blink.
 
 ## Install git for Windows    
 
