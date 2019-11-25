@@ -1,0 +1,2 @@
+Hallo zusammen.
+Dies wurde mit Java 7 Funktionalitaet gemacht.

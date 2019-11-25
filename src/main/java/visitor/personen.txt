@@ -1,0 +1,23 @@
+Darcy;Dorothea;Distelstrasse;4;3011;Bern;04.04.1944
+Eppstein;Ellen;Eibenweg;5;4055;Basel;05.05.1955
+Fine;Francis;Faubourg du Lac;6;2000;Neuenburg;06.06.1966
+Gamgee;Goldilocks;Goltgasse;7;1700;Freiburg;07.07.1477
+Hornblower;Hamfast;Helmstrasse;8;8008;Zürich;08.08.1908
+Irving;Ian;Igelweg;9;9000;Sankt Gallen;09.09.1999
+Joyce;James;Joggeliweg;10;4000;Basel;10.10.1903
+Kafka;Karl;Kirschblütenweg;11;5024;Küttigen;11.11.1951
+Lovegood;Lobelia;Ligusterweg;12;5123;Leimbach;12.12.1982
+Montague;Meriadoc;Mistelstrasse;13;7537;Müstair;13.01.1813
+Nutshell;Nora;Niesenweg;14;3711;Mülenen;14.02.1984
+Orwell;Olga;Obere Matte;15;1715;Ogoz;15.03.1984
+Potter;Peregrin;Privet Drive;16;1725;Posieux;16.06.1616
+Quaglia;Quentin;Quellenstrasse;17;6777;Quinto;17.07.1977
+Radcliffe;Romeo;Rösterei;18;8153;Rümlang;18.08.1988
+Stuart;Samwise;Sunset Boulevard;19;8833;Samstagern;19.09.1999
+Tonks;Theo;Im Tobel;20;3600;Thun;20.02.2000
+Ulvaeus;Ute;Unkrautweg;21;3800;Unterseen;21.11.1921
+Vuitton;Victor;Veilchenweg;22;8857;Vorderthal;22.12.1922
+Weyermann;Wilbur;Wisteria Lane;23;3472;Wynigen;23.03.1983
+X;Mister;Xavierstrasse;24;2424;Xyger;24.12.1924
+Yogi;Yvanna;Yahoo;25;1400;Yverdon;24.05.2005
+Zurfluh;Zoltan;Zwischen den B�umen;26;3756;Zwischenflüh;26.06.1866
